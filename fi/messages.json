@@ -19,7 +19,7 @@
         "message": "TM Legacy"
     },
     "extDescription": {
-        "message": "Change the web at will with userscripts"
+        "message": "Muokkaa verkkoa vapaasti käyttäjäscripteillä"
     },
     "1": {
         "message": "1"
@@ -55,7 +55,7 @@
         "message": "11"
     },
     "0count0_changes_exported": {
-        "message": "$count$ change(s) exported",
+        "message": "$count$ muutokset viety",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -63,7 +63,7 @@
         }
     },
     "0count0_changes_imported": {
-        "message": "$count$ change(s) imported",
+        "message": "$count$ muutokset tuotu",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -71,7 +71,7 @@
         }
     },
     "0count0_errors_or_hints_were_found_": {
-        "message": "$count$ errors or hints were found.",
+        "message": "$count$ virhettä tai vihjettä löydettiin.",
         "placeholders": {
             "count": {
                 "content": "$1"
@@ -79,7 +79,7 @@
         }
     },
     "0name0_0version0_is_available__Please_re_start_your_browser_to_update_": {
-        "message": "$name$ $version$ is available.\nPlease re-start your browser to start the update!",
+        "message": "$name$ $version$ on saatavilla.\nKäynnistä selain uudelleen aloittaaksesi päivityksen!",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -90,7 +90,7 @@
         }
     },
     "0name0_Your_service_bot": {
-        "message": "$name$ - Your service bot",
+        "message": "$name$ - Palvelubottisi",
         "placeholders": {
             "name": {
                 "content": "$1"
@@ -98,28 +98,28 @@
         }
     },
     "15_Seconds": {
-        "message": "15 Seconds"
+        "message": "15 Sekunttia"
     },
     "1_Hour": {
-        "message": "1 Hour"
+        "message": "1 Tuntia"
     },
     "1_Minute": {
-        "message": "1 Minute"
+        "message": "1 Minuuttia"
     },
     "30_Seconds": {
-        "message": "30 Seconds"
+        "message": "30 Sekunttia"
     },
     "5_Minutes": {
-        "message": "5 Minutes"
+        "message": "5 Minuuttia"
     },
     "A_recheck_of_the_GreaseMonkey_FF_compatibility_options_may_be_required_in_order_to_run_this_script_": {
-        "message": "A recheck of the GreaseMonkey/FF compatibility options may be required in order to run this script."
+        "message": "GreaseMonkey/FF-yhteensopivuusasetusten tarkistaminen saattaa olla tarpeen tämän skriptin suorittamiseksi."
     },
     "A_reload_is_required": {
-        "message": "A reload is required: \nAll unsaved changes will be lost!"
+        "message": "Uudelleenlataus on pakollinen: \nKaikki tallentamattomat muutokset menetetään!"
     },
     "A_request_to_a_cross_origin_resource_is_nothing_unusual__You_just_have_to_check_whether_this_script_has_a_good_reason_to_access_this_domain__For_example_there_are_only_a_very_few_reasons_for_a_userscript_to_contact_your_bank__Please_note_that_userscript_authors_can_avoid_this_dialog_by_adding_@connect_tags_to_their_scripts__You_can_change_your_opinion_at_any_time_at_the_scripts_settings_tab_": {
-        "message": "A request to a cross origin resource is nothing unusual.\nYou just have to check whether this script has a good reason to access this domain.\nFor example there are only a very few reasons for a userscript to contact your bank.\n\nPlease note that userscript authors can avoid this dialog by adding [url=$connect$]@connect tags[/url] to their scripts.\n\nNo matter how you'll decide, you can change your opinion at any time at the script's [url=$settings$]settings tab[/url].",
+        "message": "Pyyntö ristilähderesurssille ei ole epätavallista. Sinun täytyy vain varmistaa, että tällä skriptillä on perusteltu syy käyttää tätä verkkotunnusta.\nEsimerkiksi käyttäjäscriptille ei ole monia syitä ottaa yhteyttä pankkiisi.\nHuomaa, että käyttäjäscriptilin kirjoittajat voivat välttää tämän valintaikkunan lisäämällä [url=$connect$]@connect-tunnisteet[/url] skripteihinsä.\nEi ole väliä, miten päätät, voit muuttaa mielipiteesi milloin tahansa skriptin [url=$settings$]asetukset-välilehdeltä[/url].",
         "placeholders": {
             "connect": {
                 "content": "$1"
@@ -130,49 +130,49 @@
         }
     },
     "A_userscript_wants_to_access_a_cross_origin_resource_": {
-        "message": "A userscript wants to access a cross-origin resource."
+        "message": "Käyttäjäscriptille halutaan antaa pääsy ristilähderesurssille."
     },
     "Aborted_by_user": {
-        "message": "Aborted by user"
+        "message": "Keskeytetty käyttäjän toimesta"
     },
     "Action": {
-        "message": "Action"
+        "message": "Toiminto"
     },
     "Action_Menu": {
-        "message": "Action Menu"
+        "message": "Toimintovalikko"
     },
     "Action_failed": {
-        "message": "Action failed"
+        "message": "Toiminto epäonnistui"
     },
     "Actions": {
-        "message": "Actions"
+        "message": "Toiminnot"
     },
     "Add": {
-        "message": "Add"
+        "message": "Lisää"
     },
     "Add_GM_functions_to_this_or_window": {
-        "message": "Add GM functions to this or window"
+        "message": "Lisää GM-toimintoja tähän tai ikkunaan"
     },
     "Add_Selection_Above": {
-        "message": "Add Selection Above"
+        "message": "Lisää valinta yläpuolelle"
     },
     "Add_Selection_Below": {
-        "message": "Add Selection Below"
+        "message": "Lisää valinta alapuolelle"
     },
     "Add_TM_to_CSP": {
-        "message": "Modify existing content security policy (CSP) headers"
+        "message": "Muokkaa olemassa olevia sisältöturvapolitiikan (CSP) otsikoita"
     },
     "Add_Tag": {
-        "message": "Add Tag"
+        "message": "Lisää tunniste"
     },
     "Add_Tag_to_System": {
-        "message": "Add Tag to the system's list"
+        "message": "Lisää tunniste järjestelmän listalle"
     },
     "Add_Tampermonkey_to_the_site_s_content_csp": {
-        "message": "Add Tampermonkey to the HTML's CSP"
+        "message": "Lisää Tampermonkey HTML:n CSP:hen"
     },
     "Add_as_0clude0": {
-        "message": "Add as $clude$",
+        "message": "Lisää $clude$-muodossa",
         "placeholders": {
             "clude": {
                 "content": "$1"
@@ -180,31 +180,31 @@
         }
     },
     "Add_new_script___": {
-        "message": "Create a new script..."
+        "message": "Luo uusi skripti..."
     },
     "Add_to_icon_badge_text": {
-        "message": "Add to icon badge text"
+        "message": "Lisää kuvakkeen merkintätekstiin"
     },
     "Advanced": {
-        "message": "Advanced"
+        "message": "Lisäasetukset"
     },
     "All": {
-        "message": "All"
+        "message": "Kaikki"
     },
     "All_but_HttpOnly": {
-        "message": "All but protected cookies (HttpOnly)"
+        "message": "Kaikki paitsi suojatut evästeet (HttpOnly)"
     },
     "All_local_files": {
-        "message": "All local files"
+        "message": "Kaikki paikalliset tiedostot"
     },
     "All_modifications_are_only_kept_until_this_incognito_session_is_closed_": {
-        "message": "All modifications are only kept until this incognito session is closed!"
+        "message": "Kaikki muutokset säilyvät vain, kunnes tämä incognito-istunto suljetaan!"
     },
     "All_script_settings_will_be_reset_": {
-        "message": "All script settings will be reset!"
+        "message": "Kaikki skriptin asetukset palautetaan oletusarvoihin!"
     },
     "All_tabs": {
-        "message": "All tabs"
+        "message": "Kaikki välilehdet"
     },
     "Allow_Tampermonkey_to_collect_anonymous_statistics": {
         "message": "Allow Tampermonkey to collect anonymous statistics via a self-hosted Matomo installation. This helps me to improve Tampermonkey and to determine on what criteria I should focus my development. Just disable this if you dislike it."
